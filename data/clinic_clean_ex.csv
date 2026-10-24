@@ -1,0 +1,201 @@
+patient_id,site,sex,age,visit_date,blood_pressure,weight_kg,notes,sbp,dbp
+PT-0001,site a,NA,70,2023-02-06,180/64 mmHg,79.1,stable,180,64
+PT-0002,site a,F,41,2023-09-13,97/74 mmHg,65.3,follow up,97,74
+PT-0003,site a,NA,55,2023-12-12,133/72 mmHg,82.1,NA,133,72
+PT-0004,site a,F,37,2023-06-26,133/70 mmHg,62.5,stable,133,70
+PT-0005,site b,M,50,2023-07-29,101/62 mmHg,50.4,discharged,101,62
+PT-0006,site d,F,53,2023-11-11,98/75 mmHg,84.9,follow up,98,75
+PT-0007,site b,F,62,2023-04-28,177/91 mmHg,72.2,discharged,177,91
+PT-0008,site b,F,39,2023-09-30,156/77 mmHg,111.9,stable,156,77
+PT-0009,site a,M,61,2023-02-08,92/104 mmHg,81,stable,92,104
+PT-0010,site d,M,81,2023-07-23,115/101 mmHg,82.6,discharged,115,101
+PT-0011,site c,F,24,2023-08-10,96/56 mmHg,79.2,follow up,96,56
+PT-0012,site d,F,22,2023-06-12,116/109 mmHg,62.8,discharged,116,109
+PT-0013,site c,M,48,2023-05-28,176/87 mmHg,65.6,follow up,176,87
+PT-0014,site d,M,49,2023-01-08,133/82 mmHg,82.7,NA,133,82
+PT-0015,site a,F,56,2023-10-03,138/85 mmHg,82.7,follow up,138,85
+PT-0016,site a,NA,30,2023-06-05,168/82 mmHg,77,follow up,168,82
+PT-0017,site b,F,47,2023-04-07,136/96 mmHg,58.2,discharged,136,96
+PT-0018,site d,F,71,2023-07-03,109/108 mmHg,90.2,stable,109,108
+PT-0019,site b,F,19,2023-02-15,180/63 mmHg,53.6,follow up,180,63
+PT-0020,site b,NA,45,2023-12-07,N/A,64.8,follow up,NA,NA
+PT-0021,site c,F,20,2023-09-05,108/71 mmHg,97.9,follow up,108,71
+PT-0022,site c,M,50,2023-07-03,155/99 mmHg,76.3,NA,155,99
+PT-0023,site a,F,26,2023-04-08,111/60 mmHg,81.6,follow up,111,60
+PT-0024,site a,F,71,2023-11-14,126/66 mmHg,74.5,stable,126,66
+PT-0025,site c,M,27,2023-03-10,139/73 mmHg,58,follow up,139,73
+PT-0026,site d,NA,88,2023-09-25,122/87 mmHg,62.8,follow up,122,87
+PT-0027,site a,M,42,2023-09-16,157/65 mmHg,72,follow up,157,65
+PT-0028,site c,M,NA,2023-01-18,171/82 mmHg,34.9,stable,171,82
+PT-0029,site a,M,90,2023-08-30,151/81 mmHg,59.8,stable,151,81
+PT-0030,site a,M,36,2023-06-27,131/70 mmHg,79.6,follow up,131,70
+PT-0031,site d,F,63,2023-04-25,145/68 mmHg,66.4,discharged,145,68
+PT-0032,site b,M,20,2023-01-30,114/105 mmHg,66.6,NA,114,105
+PT-0033,site d,M,39,2023-05-28,N/A,80.4,follow up,NA,NA
+PT-0034,site d,M,78,2023-11-03,103/77 mmHg,63.5,follow up,103,77
+PT-0035,site c,F,37,2023-06-11,150/91 mmHg,77.5,NA,150,91
+PT-0036,site b,NA,59,2023-10-04,180/94 mmHg,NA,follow up,180,94
+PT-0037,site a,M,34,2023-06-29,163/107 mmHg,55.3,discharged,163,107
+PT-0038,site b,NA,63,2023-03-24,N/A,49.9,discharged,NA,NA
+PT-0039,site d,F,34,2023-05-05,163/102 mmHg,71,follow up,163,102
+PT-0040,site b,F,NA,2023-08-23,110/98 mmHg,67.5,stable,110,98
+PT-0041,site c,M,54,2023-03-23,130/101 mmHg,87.3,follow up,130,101
+PT-0042,site c,F,62,2023-02-09,128/61 mmHg,69.5,NA,128,61
+PT-0043,site b,M,67,2023-10-07,159/87 mmHg,86.2,stable,159,87
+PT-0044,site b,M,68,2023-06-06,141/78 mmHg,93.3,stable,141,78
+PT-0045,site d,F,NA,2023-10-05,117/69 mmHg,64.1,follow up,117,69
+PT-0046,site d,F,65,2023-08-03,97/62 mmHg,74.7,follow up,97,62
+PT-0047,site d,M,51,2023-08-24,120/60 mmHg,59.9,stable,120,60
+PT-0048,site b,M,75,2023-05-28,179/97 mmHg,78.9,discharged,179,97
+PT-0049,site b,F,85,2023-06-28,151/88 mmHg,57,follow up,151,88
+PT-0050,site a,F,78,2023-10-22,113/87 mmHg,57.7,follow up,113,87
+PT-0051,site d,M,50,2023-01-09,126/84 mmHg,NA,stable,126,84
+PT-0052,site a,M,36,2023-11-15,147/106 mmHg,71.1,stable,147,106
+PT-0053,site d,M,87,2023-07-09,172/91 mmHg,73.2,stable,172,91
+PT-0054,site b,F,47,2023-01-19,173/91 mmHg,70.8,discharged,173,91
+PT-0055,site d,M,19,2023-01-21,100/97 mmHg,63.7,stable,100,97
+PT-0056,site b,M,55,2023-12-29,180/81 mmHg,68.4,stable,180,81
+PT-0057,site c,M,26,2023-12-20,160/81 mmHg,89.4,stable,160,81
+PT-0058,site d,F,73,2023-06-26,145/103 mmHg,69.8,follow up,145,103
+PT-0059,site c,F,23,2023-11-20,133/71 mmHg,54.2,follow up,133,71
+PT-0060,site a,F,48,2023-04-25,93/71 mmHg,59.9,discharged,93,71
+PT-0061,site a,M,86,2023-11-17,120/109 mmHg,56.8,stable,120,109
+PT-0062,site b,M,31,2023-04-02,141/80 mmHg,59.2,NA,141,80
+PT-0063,site b,M,81,2023-12-03,124/84 mmHg,54.9,stable,124,84
+PT-0064,site b,F,64,2023-07-04,150/81 mmHg,38.5,stable,150,81
+PT-0065,site b,F,82,2023-06-04,150/73 mmHg,78,NA,150,73
+PT-0066,site b,M,58,2023-06-03,154/67 mmHg,77.9,NA,154,67
+PT-0067,site d,NA,27,2023-02-26,137/72 mmHg,67,discharged,137,72
+PT-0068,site c,M,66,2023-08-01,94/64 mmHg,61.3,follow up,94,64
+PT-0069,site b,F,39,2023-08-20,N/A,60.3,follow up,NA,NA
+PT-0070,site a,NA,18,2023-10-18,132/103 mmHg,74.8,discharged,132,103
+PT-0071,site b,M,21,2023-07-05,154/82 mmHg,72.7,discharged,154,82
+PT-0072,site c,M,84,2023-01-13,177/75 mmHg,75.1,stable,177,75
+PT-0073,site b,F,76,2023-04-08,122/64 mmHg,70.1,stable,122,64
+PT-0074,site b,M,70,2023-08-16,N/A,77.4,NA,NA,NA
+PT-0075,site b,NA,55,2023-10-24,156/65 mmHg,75.2,NA,156,65
+PT-0076,site d,M,76,2023-12-14,158/67 mmHg,76.7,follow up,158,67
+PT-0077,site a,M,86,2023-12-18,128/100 mmHg,76,discharged,128,100
+PT-0078,site a,F,59,2023-04-20,159/99 mmHg,89.9,follow up,159,99
+PT-0079,site a,F,79,2023-01-27,169/61 mmHg,57.3,follow up,169,61
+PT-0080,site c,F,37,2023-12-19,102/94 mmHg,88.1,stable,102,94
+PT-0081,site d,F,51,2023-09-13,N/A,66,NA,NA,NA
+PT-0082,site a,M,74,2023-03-06,139/68 mmHg,69.2,follow up,139,68
+PT-0083,site b,M,37,2023-03-19,99/59 mmHg,71,follow up,99,59
+PT-0084,site a,F,26,2023-09-01,N/A,64.6,NA,NA,NA
+PT-0085,site a,M,44,2023-02-27,169/105 mmHg,39.4,NA,169,105
+PT-0086,site d,M,63,2023-09-02,170/77 mmHg,66.2,stable,170,77
+PT-0087,site d,F,63,2023-01-28,91/100 mmHg,70.5,follow up,91,100
+PT-0088,site a,M,20,2023-10-15,168/73 mmHg,49.1,stable,168,73
+PT-0089,site c,M,80,2023-12-27,176/101 mmHg,76.6,discharged,176,101
+PT-0090,site c,M,35,2023-06-07,180/102 mmHg,62.8,follow up,180,102
+PT-0091,site a,NA,27,2023-06-14,129/57 mmHg,87.4,NA,129,57
+PT-0092,site d,M,57,2023-09-02,N/A,73.2,NA,NA,NA
+PT-0093,site a,M,70,2023-12-20,123/92 mmHg,60.5,stable,123,92
+PT-0094,site d,F,87,2023-06-01,138/93 mmHg,72,follow up,138,93
+PT-0095,site d,M,46,2023-06-21,N/A,73.1,NA,NA,NA
+PT-0096,site b,M,85,2023-02-03,132/99 mmHg,80.9,discharged,132,99
+PT-0097,site a,M,26,2023-05-05,147/96 mmHg,68.1,discharged,147,96
+PT-0098,site d,F,57,2023-10-11,126/96 mmHg,45.6,follow up,126,96
+PT-0099,site b,M,NA,2023-10-31,111/82 mmHg,54.4,follow up,111,82
+PT-0100,site b,M,71,2023-01-18,92/89 mmHg,59.7,stable,92,89
+PT-0101,site b,F,74,2023-05-30,167/78 mmHg,75.1,stable,167,78
+PT-0102,site d,F,44,2023-06-03,105/106 mmHg,66.6,discharged,105,106
+PT-0103,site a,M,45,2023-02-18,163/103 mmHg,62.6,follow up,163,103
+PT-0104,site b,M,32,2023-07-31,116/104 mmHg,59.9,stable,116,104
+PT-0105,site a,NA,40,2023-12-17,161/71 mmHg,71.8,follow up,161,71
+PT-0106,site b,F,78,2023-12-26,N/A,59.8,NA,NA,NA
+PT-0107,site d,F,27,2023-01-30,98/96 mmHg,65.2,stable,98,96
+PT-0108,site c,M,30,2023-03-13,127/94 mmHg,58.7,discharged,127,94
+PT-0109,site d,M,79,2023-02-27,N/A,53.3,follow up,NA,NA
+PT-0110,site a,M,18,2023-06-15,119/77 mmHg,81.5,NA,119,77
+PT-0111,site d,M,28,2023-04-09,178/67 mmHg,NA,discharged,178,67
+PT-0112,site a,F,43,2023-11-17,162/94 mmHg,70.9,stable,162,94
+PT-0113,site d,F,NA,2023-06-24,126/81 mmHg,63.2,stable,126,81
+PT-0114,site c,M,25,2023-01-04,170/106 mmHg,57.3,follow up,170,106
+PT-0115,site b,M,87,2023-02-10,109/91 mmHg,73.1,stable,109,91
+PT-0116,site b,F,NA,2023-12-19,156/71 mmHg,74.5,stable,156,71
+PT-0117,site c,M,42,2023-07-17,106/79 mmHg,85.2,follow up,106,79
+PT-0118,site a,F,41,2023-10-03,N/A,73.9,follow up,NA,NA
+PT-0119,site a,F,33,2023-05-17,164/94 mmHg,NA,follow up,164,94
+PT-0120,site b,F,20,2023-04-02,97/82 mmHg,101.2,stable,97,82
+PT-0121,site c,F,73,2023-06-01,128/73 mmHg,62.2,follow up,128,73
+PT-0122,site d,F,38,2023-05-30,142/67 mmHg,58,follow up,142,67
+PT-0123,site d,M,84,2023-09-24,109/87 mmHg,63.6,follow up,109,87
+PT-0124,site b,M,27,2023-07-29,150/66 mmHg,68.7,follow up,150,66
+PT-0125,site d,F,24,2023-12-29,112/55 mmHg,77.2,follow up,112,55
+PT-0126,site a,F,36,2023-05-27,145/92 mmHg,75,stable,145,92
+PT-0127,site a,F,46,2023-12-29,122/73 mmHg,68.7,stable,122,73
+PT-0128,site d,NA,62,2023-10-23,149/99 mmHg,59.7,follow up,149,99
+PT-0129,site a,M,59,2023-08-30,108/73 mmHg,83.5,stable,108,73
+PT-0130,site a,M,63,2023-08-13,169/91 mmHg,81,NA,169,91
+PT-0131,site a,F,41,2023-11-07,139/77 mmHg,61.3,stable,139,77
+PT-0132,site b,M,47,2023-06-15,99/81 mmHg,78.2,stable,99,81
+PT-0133,site c,M,62,2023-02-03,163/85 mmHg,NA,follow up,163,85
+PT-0134,site a,F,59,2023-08-26,108/76 mmHg,82.5,discharged,108,76
+PT-0135,site b,F,56,2023-08-17,166/67 mmHg,71.8,follow up,166,67
+PT-0136,site d,F,69,2023-01-01,176/68 mmHg,56.3,stable,176,68
+PT-0137,site d,F,70,2023-12-16,129/100 mmHg,79.6,follow up,129,100
+PT-0138,site a,M,60,2023-02-26,N/A,61.3,stable,NA,NA
+PT-0139,site c,NA,60,2023-11-07,128/106 mmHg,76.3,follow up,128,106
+PT-0140,site b,M,43,2023-11-12,149/98 mmHg,NA,discharged,149,98
+PT-0141,site a,F,79,2023-07-15,128/74 mmHg,53,follow up,128,74
+PT-0142,site a,M,23,2023-03-12,126/62 mmHg,88.7,NA,126,62
+PT-0143,site b,M,75,2023-05-22,154/97 mmHg,86.2,discharged,154,97
+PT-0144,site a,F,40,2023-01-10,140/68 mmHg,63.7,stable,140,68
+PT-0145,site a,M,59,2023-03-10,145/56 mmHg,67,stable,145,56
+PT-0146,site c,M,58,2023-12-10,139/68 mmHg,61.8,follow up,139,68
+PT-0147,site d,F,77,2023-06-15,112/110 mmHg,63.2,stable,112,110
+PT-0148,site b,F,62,2023-05-13,127/84 mmHg,77,follow up,127,84
+PT-0149,site c,NA,50,2023-10-04,142/64 mmHg,59.2,follow up,142,64
+PT-0150,site b,F,28,2023-03-04,125/56 mmHg,67.7,follow up,125,56
+PT-0151,site b,F,62,2023-08-30,150/107 mmHg,68.3,stable,150,107
+PT-0152,site d,F,31,2023-02-04,101/96 mmHg,68.8,follow up,101,96
+PT-0153,site a,M,19,2023-09-16,95/86 mmHg,72.2,stable,95,86
+PT-0154,site c,M,62,2023-07-20,170/57 mmHg,89.2,follow up,170,57
+PT-0155,site a,M,52,2023-10-28,90/110 mmHg,64.6,follow up,90,110
+PT-0156,site a,F,45,2023-04-01,148/88 mmHg,60.5,discharged,148,88
+PT-0157,site a,F,62,2023-10-12,145/82 mmHg,79.5,NA,145,82
+PT-0158,site c,F,33,2023-08-07,173/82 mmHg,74.6,follow up,173,82
+PT-0159,site c,F,62,2023-10-25,115/84 mmHg,72.8,discharged,115,84
+PT-0160,site d,F,25,2023-01-17,146/64 mmHg,77.1,NA,146,64
+PT-0161,site a,F,89,2023-01-20,172/79 mmHg,53.1,stable,172,79
+PT-0162,site b,F,54,2023-03-17,145/101 mmHg,82.8,follow up,145,101
+PT-0163,site b,M,27,2023-03-29,92/73 mmHg,75.4,follow up,92,73
+PT-0164,site c,F,77,2023-06-07,134/66 mmHg,81.4,discharged,134,66
+PT-0165,site b,F,40,2023-08-02,108/72 mmHg,62.8,stable,108,72
+PT-0166,site d,F,50,2023-06-28,139/85 mmHg,47.9,NA,139,85
+PT-0167,site c,F,32,2023-04-22,173/108 mmHg,64.2,stable,173,108
+PT-0168,site c,F,85,2023-06-10,103/72 mmHg,59.1,discharged,103,72
+PT-0169,site b,F,77,2023-04-16,111/97 mmHg,96.7,follow up,111,97
+PT-0170,site a,M,27,2023-05-15,135/63 mmHg,65,stable,135,63
+PT-0171,site d,M,89,2023-01-25,96/62 mmHg,67.4,follow up,96,62
+PT-0172,site a,M,62,2023-01-24,136/95 mmHg,82.8,follow up,136,95
+PT-0173,site d,M,72,2023-09-12,144/62 mmHg,77.4,stable,144,62
+PT-0174,site b,M,65,2023-11-18,N/A,78.1,follow up,NA,NA
+PT-0175,site a,M,25,2023-10-19,132/62 mmHg,NA,stable,132,62
+PT-0176,site b,F,20,2023-09-21,163/64 mmHg,72,follow up,163,64
+PT-0177,site c,M,65,2023-07-25,138/64 mmHg,92.9,follow up,138,64
+PT-0178,site b,M,30,2023-05-25,114/88 mmHg,73,discharged,114,88
+PT-0179,site b,M,35,2023-07-05,163/65 mmHg,52.5,stable,163,65
+PT-0180,site d,NA,22,2023-08-29,119/107 mmHg,43.3,follow up,119,107
+PT-0181,site b,F,48,2023-05-25,116/96 mmHg,77.8,discharged,116,96
+PT-0182,site b,F,73,2023-03-21,N/A,58,NA,NA,NA
+PT-0183,site b,F,37,2023-12-18,131/74 mmHg,70.5,stable,131,74
+PT-0184,site c,M,84,2023-06-29,150/56 mmHg,91.3,discharged,150,56
+PT-0185,site b,F,25,2023-01-25,162/85 mmHg,74.2,stable,162,85
+PT-0186,site d,NA,36,2023-07-14,N/A,66.6,follow up,NA,NA
+PT-0187,site d,M,27,2023-05-22,180/64 mmHg,46.9,discharged,180,64
+PT-0188,site c,F,78,2023-02-25,161/108 mmHg,60.4,discharged,161,108
+PT-0189,site b,M,29,2023-06-21,172/100 mmHg,63.1,NA,172,100
+PT-0190,site b,M,52,2023-07-02,160/105 mmHg,78.2,NA,160,105
+PT-0191,site c,NA,69,2023-08-26,179/86 mmHg,75.8,stable,179,86
+PT-0192,site d,F,49,2023-03-08,105/90 mmHg,70.2,NA,105,90
+PT-0193,site b,F,78,2023-06-13,161/102 mmHg,72.2,follow up,161,102
+PT-0194,site d,M,71,2023-10-18,112/69 mmHg,66.5,stable,112,69
+PT-0195,site d,M,51,2023-02-08,174/77 mmHg,70.4,discharged,174,77
+PT-0196,site b,F,18,2023-07-07,149/78 mmHg,73.3,stable,149,78
+PT-0197,site a,F,24,2023-09-05,169/79 mmHg,75.4,stable,169,79
+PT-0198,site a,F,28,2023-10-20,132/65 mmHg,91.9,follow up,132,65
+PT-0199,site b,F,80,2023-12-08,146/73 mmHg,NA,stable,146,73
+PT-0200,site d,M,32,2023-10-12,116/96 mmHg,87.7,discharged,116,96
